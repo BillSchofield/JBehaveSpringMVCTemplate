@@ -1,3 +1,7 @@
+Install dependencies first
+        (1) Maven
+        (2) Tomcat
+
 How to download and run the project:
 
         (1) Clone it from the GitHub repo
